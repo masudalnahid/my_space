@@ -91,6 +91,9 @@ Quick start (ubuntu)
      $ google-chorme  http://localhost:3000/user/password/set?passwordResetToken=${TOKEN}
      
 -------------
+* https://techrusty.com/how-to-stop-skype-from-lowering-volume/
+
+* https://www.seeandroid.com/how-to-delete-search-history-on-wish-application
 
 * https://www.ubuntupit.com/best-latex-editor-top-33-reviewed-for-linux-nerds/
 
